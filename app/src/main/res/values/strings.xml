@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Higher or Lower</string>
+
+    <string name="info_text">I\'ve chosen a number between 0 and 20</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_description">splash image</string>
+    <string name="guess_text">Can You Guess It?</string>
+    <string name="guess_button">Guess</string>
+</resources>
